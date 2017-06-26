@@ -1,4 +1,4 @@
-# translate
+# 命名
 
 ## [Naming Things](https://24ways.org/2014/naming-things/)
 
